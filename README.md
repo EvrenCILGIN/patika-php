@@ -14,4 +14,4 @@ Array
 
 Form Post
 
-![github](img/form-post)
+![github](img/form-post.jpg)
