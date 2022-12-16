@@ -9,3 +9,9 @@
 Array
 
 ![github](img/array-ödevi.jpg)
+
+# PHP Ödev 3
+
+Form Post
+
+![github](img/form-post)
