@@ -15,3 +15,9 @@ Array
 Form Post
 
 ![github](img/form-post.jpg)
+
+# PHP Ödev 4
+
+Alan Çevre Hesaplama
+
+![github](img/alan_cevre_hesaplama.jpg)
